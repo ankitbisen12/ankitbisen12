@@ -3,7 +3,7 @@
 
 - ⚡ I’m currently learning **Backend Development**
 
-- 💬 Ask me about **C++, OOPS, DSA, DBMS, HTML, CSS, Javascript, ReactJS**
+- 💬 Ask me about **C++, OOPS, DSA, DBMS, HTML, CSS, Javascript, ReactJS,Redux,TailwindCSS, NodeJS,ExpressJs,MongoDB,NextJS**
 
 - 📫 How to reach me **ankitbisen751@gmail.com**
 

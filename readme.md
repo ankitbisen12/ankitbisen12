@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ankit Bisen</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 - ⚡ I’m currently learning **Backend Development**
 
-- 💬 Ask me about **C++, OOPS, DSA, DBMS, HTML, CSS, Javascript, ReactJS,Redux,TailwindCSS, NodeJS,ExpressJs,MongoDB,NextJS**
+- 💬 Ask me about **C++, OOPS, DSA, DBMS, HTML, CSS, Javascript, ReactJS,Redux,TailwindCSS, NodeJS,ExpressJs,MongoDB,NextJS,React Native,Typescript**
 
 - 📫 How to reach me **ankitbisen751@gmail.com**
 

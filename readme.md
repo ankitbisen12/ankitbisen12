@@ -1,37 +1,46 @@
-<h1 align="center">Hi, I'm Ankit Bisen</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<div align="center">
 
-- ⚡ I’m currently learning **Backend Development**
+# Hey, I'm AnKit Bisen
+## Software Developer with 1 Years of Experience
 
-- 💬 Ask me about **C++, OOPS, DSA, DBMS, HTML, CSS, Javascript, ReactJS,Redux,TailwindCSS, NodeJS,ExpressJs,MongoDB,NextJS,React Native,Typescript**
+---
 
-- 📫 How to reach me **ankitbisen751@gmail.com**
-
-### Connect with me:
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-bisen-13a55a1a7/)
-[Portfolio](https://portfolio-two-drab-78.vercel.app/)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactJs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="git" width="40" height="40"/>
-    <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" alt="react_native" width="40"  height="40" />
-</p>
+</div>
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitbisen12&show_icons=true&locale=en&layout=compact" alt="Ankit Bisen" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitbisen12&show_icons=true&locale=en" alt="Ankit Bisen" /></p>
+### 🛠️ Skills
+- **Languages:** C++,Python,JavaScript,TypeScript, SQL
+- **Frontend:** ReactJS, NextJS, Redux,TailwindCSS
+- **Backend:** NodeJS, ExpressJS, MongoDB
+- **APIs:** RESTAPI
+- **Tools:** Git, Postman
+- **Other:** Data Structures & Algorithms (DSA)
 
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-bisen-13a55a1a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitbisen751@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ankit-bisen.vercel.app/)
 
+---
 
+## Languages and Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+---
 
+## 📊 Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---

@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hey, I'm AnKit Bisen
-## Software Developer with 1 Years of Experience
-#### Currently learning Big Data Engineering
+<h3>Software Developer with 1 Years of Experience</h3>
 
 ---
 
@@ -36,7 +35,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 

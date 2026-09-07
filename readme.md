@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Ankit Bisen
-<h3>Associate Engineer with 2+ Years of Experience</h3>
+<h3>Data Engineer with 2+ Years of Experience</h3>
 
 ---
 
@@ -13,8 +13,8 @@
 - **Big Data Technologies:** Spark, PySpark, Spark SQL
 - **Cloud computing:** Databricks, Aws S3
 - **Data Engineering Tools:** Data Modelling, ETL/ELT data Pipeline
-- **Orchestration:** Apache Airflow
 - **Tools:** Git, Postman
+- **AI:** Agentic AI, RAG, LLM models.
 - **Other:** Docker(Basics), ReactJs,NextJs, NodeJs,Mongoose, RESTAPI,GitData Structures & Algorithms (DSA)
 
 ### 🌐 Connect with Me:
